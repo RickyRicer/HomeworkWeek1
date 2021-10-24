@@ -11,8 +11,8 @@ This was a fun and challenging project, as CSS is totally new to me. Revisiting 
 ## Screenshots
 
 This is my first attempt at readme screenshots. It did disappoint.
-![Alt text](/Documents/bootcamp/homework/assets/images/horiseonsnip.PNG)
-[url=https://flic.kr/p/2mDQG6J][img]https://live.staticflickr.com/65535/51624038524_84b3abc22f_b.jpg[/img][/url][url=https://flic.kr/p/2mDQG6J]horiseonsnip[/url] by [url=https://www.flickr.com/photos/155264499@N04/]Rick Ansay[/url], on Flickr
+![Screenshot of Horiseon Social Solutions Homepage](./assets/images/horiseonsnip.PNG)
+
 
 
   
