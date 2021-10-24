@@ -10,7 +10,7 @@ This was a fun and challenging project, as CSS is totally new to me. Revisiting 
   
 ## Screenshots
 
-This is my first attempt at readme screenshots. It did disappoint.
+This is my first attempt at readme screenshots.
 ![Screenshot of Horiseon Social Solutions Homepage](./assets/images/horiseonsnip.PNG)
 
 
